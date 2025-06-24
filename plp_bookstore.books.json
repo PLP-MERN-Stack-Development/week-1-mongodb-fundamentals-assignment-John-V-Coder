@@ -1,0 +1,247 @@
+[{
+  "_id": {
+    "$oid": "6838ad1d6d7d8ab8693f5466"
+  },
+  "title": "The Silent Forest",
+  "author": "Jane Doe",
+  "genre": "Fantasy",
+  "published_year": 2018,
+  "price": 1200,
+  "in_stock": true,
+  "pages": 350,
+  "publisher": "GreenLeaf Publishing"
+},
+{
+  "_id": {
+    "$oid": "6838ad1d6d7d8ab8693f5467"
+  },
+  "title": "Digital Dreams",
+  "author": "John Smith",
+  "genre": "Science Fiction",
+  "published_year": 2021,
+  "price": 1600,
+  "in_stock": true,
+  "pages": 280,
+  "publisher": "TechReaders Inc."
+},
+{
+  "_id": {
+    "$oid": "6838ad1d6d7d8ab8693f5468"
+  },
+  "title": "History Rewritten",
+  "author": "Mary Johnson",
+  "genre": "History",
+  "published_year": 2015,
+  "price": 1100,
+  "in_stock": false,
+  "pages": 400,
+  "publisher": "AncientText Ltd"
+},
+{
+  "_id": {
+    "$oid": "6838ad1d6d7d8ab8693f546a"
+  },
+  "title": "Code Unleashed",
+  "author": "Alice Green",
+  "genre": "Technology",
+  "published_year": 2022,
+  "price": 2000,
+  "in_stock": true,
+  "pages": 220,
+  "publisher": "DevTech Publishers"
+},
+{
+  "_id": {
+    "$oid": "6838ad1d6d7d8ab8693f546b"
+  },
+  "title": "Into the Wild",
+  "author": "John Smith",
+  "genre": "Adventure",
+  "published_year": 2017,
+  "price": 1250,
+  "in_stock": false,
+  "pages": 310,
+  "publisher": "Mountain House"
+},
+{
+  "_id": {
+    "$oid": "6838ad1d6d7d8ab8693f546c"
+  },
+  "title": "Art of Silence",
+  "author": "Linda White",
+  "genre": "Poetry",
+  "published_year": 2016,
+  "price": 900,
+  "in_stock": true,
+  "pages": 180,
+  "publisher": "Whisper Press"
+},
+{
+  "_id": {
+    "$oid": "6838ad1d6d7d8ab8693f546d"
+  },
+  "title": "Data Chronicles",
+  "author": "Alice Green",
+  "genre": "Technology",
+  "published_year": 2023,
+  "price": 2500,
+  "in_stock": true,
+  "pages": 360,
+  "publisher": "BigData House"
+},
+{
+  "_id": {
+    "$oid": "6838ad1d6d7d8ab8693f546e"
+  },
+  "title": "Life of Legends",
+  "author": "Robert Brown",
+  "genre": "Fantasy",
+  "published_year": 2020,
+  "price": 1400,
+  "in_stock": true,
+  "pages": 390,
+  "publisher": "EpicTales Ltd"
+},
+{
+  "_id": {
+    "$oid": "6838ad1d6d7d8ab8693f546f"
+  },
+  "title": "Cosmic Journey",
+  "author": "Jane Doe",
+  "genre": "Science Fiction",
+  "published_year": 2021,
+  "price": 1700,
+  "in_stock": true,
+  "pages": 320,
+  "publisher": "Galaxy Reads"
+},
+{
+  "_id": {
+    "$oid": "6838ad29ac9d5960369959a4"
+  },
+  "title": "The Silent Forest",
+  "author": "Jane Doe",
+  "genre": "Fantasy",
+  "published_year": 2018,
+  "price": 1200,
+  "in_stock": true,
+  "pages": 350,
+  "publisher": "GreenLeaf Publishing"
+},
+{
+  "_id": {
+    "$oid": "6838ad29ac9d5960369959a5"
+  },
+  "title": "Digital Dreams",
+  "author": "John Smith",
+  "genre": "Science Fiction",
+  "published_year": 2021,
+  "price": 1500,
+  "in_stock": true,
+  "pages": 280,
+  "publisher": "TechReaders Inc."
+},
+{
+  "_id": {
+    "$oid": "6838ad29ac9d5960369959a6"
+  },
+  "title": "History Rewritten",
+  "author": "Mary Johnson",
+  "genre": "History",
+  "published_year": 2015,
+  "price": 1100,
+  "in_stock": false,
+  "pages": 400,
+  "publisher": "AncientText Ltd"
+},
+{
+  "_id": {
+    "$oid": "6838ad29ac9d5960369959a7"
+  },
+  "title": "Ocean's Tale",
+  "author": "Robert Brown",
+  "genre": "Adventure",
+  "published_year": 2019,
+  "price": 1300,
+  "in_stock": true,
+  "pages": 300,
+  "publisher": "Seashell Media"
+},
+{
+  "_id": {
+    "$oid": "6838ad29ac9d5960369959a8"
+  },
+  "title": "Code Unleashed",
+  "author": "Alice Green",
+  "genre": "Technology",
+  "published_year": 2022,
+  "price": 2000,
+  "in_stock": true,
+  "pages": 220,
+  "publisher": "DevTech Publishers"
+},
+{
+  "_id": {
+    "$oid": "6838ad29ac9d5960369959a9"
+  },
+  "title": "Into the Wild",
+  "author": "John Smith",
+  "genre": "Adventure",
+  "published_year": 2017,
+  "price": 1250,
+  "in_stock": false,
+  "pages": 310,
+  "publisher": "Mountain House"
+},
+{
+  "_id": {
+    "$oid": "6838ad29ac9d5960369959aa"
+  },
+  "title": "Art of Silence",
+  "author": "Linda White",
+  "genre": "Poetry",
+  "published_year": 2016,
+  "price": 900,
+  "in_stock": true,
+  "pages": 180,
+  "publisher": "Whisper Press"
+},
+{
+  "_id": {
+    "$oid": "6838ad29ac9d5960369959ab"
+  },
+  "title": "Data Chronicles",
+  "author": "Alice Green",
+  "genre": "Technology",
+  "published_year": 2023,
+  "price": 2500,
+  "in_stock": true,
+  "pages": 360,
+  "publisher": "BigData House"
+},
+{
+  "_id": {
+    "$oid": "6838ad29ac9d5960369959ac"
+  },
+  "title": "Life of Legends",
+  "author": "Robert Brown",
+  "genre": "Fantasy",
+  "published_year": 2020,
+  "price": 1400,
+  "in_stock": true,
+  "pages": 390,
+  "publisher": "EpicTales Ltd"
+},
+{
+  "_id": {
+    "$oid": "6838ad29ac9d5960369959ad"
+  },
+  "title": "Cosmic Journey",
+  "author": "Jane Doe",
+  "genre": "Science Fiction",
+  "published_year": 2021,
+  "price": 1700,
+  "in_stock": true,
+  "pages": 320,
+  "publisher": "Galaxy Reads"
+}]
